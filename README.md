@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jenyushka
 - 👀 I’m interested in Backend Developing
-- 🌱 I’m currently learning PHP8, React.gs 16, MySql 5.7
+- 🌱 I’m currently learning PHP8, React.js, MySql 5.7
 - 💞️ I’m looking to collaborate on smart develpers
 - 📫 How to reach me ...
 
